@@ -1,0 +1,4 @@
+name: DUILGMCStatuses
+version: 0.2
+main: fr.kestrel.duilgmcstatuses.Main
+api-version: 1.17
